@@ -1,0 +1,114 @@
+/*Fondo de pagina*/
+body {
+    background-color: black;
+}
+
+/*Titulo*/
+.titulo {
+    color: white;
+    text-align: center;
+    margin: 7px 0px 7px 0px;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*Imagen grande*/
+.img-header {
+    width: 100%;
+}
+
+/*texto*/
+.texto {
+    color: white;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    opacity: 1;
+    display: inline-block;
+    padding: 76px 200px 75px 400px;
+    width: 475px;
+    height: 197px;
+}
+
+/*Imagen iguana del texto*/
+.iguana1 {
+    width: 399px;
+    height: 237px;
+    display: inline-block;
+}
+
+/*Caracteristicas*/
+section {
+    display: block;
+}
+
+.fondo {
+    color: white;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+.caract
+
+/*titulo*/
+    {
+    font-size: 47px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-top: 75px;
+}
+
+/*Iconos*/
+.icon {
+    display: inline-block;
+    width: 33%;
+    padding-top: 50px;
+}
+
+/*Textos bajo los iconos*/
+.description {
+    font-size: 29px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+/*Imagenes*/
+figure {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/*tres iguanas*/
+.iguanaimgs1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inline-block;
+}
+
+/*Footer*/
+footer {
+    background-color: #1E1A13;
+    position: absolute;
+    width: 100%;
+}
+
+/*caracteristicas del footer*/
+.foot {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* decoracion del link*/
+a {
+    color: white;
+}
+
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+}
